@@ -1,0 +1,5 @@
+servers:
+  - {"ip": "66.0.0.0", "hostname": "Los Angles"}  
+  - {"ip": "108.0.0.0", "hostname": "Sydney"}
+  - {"ip": "8.8.8.8", "hostname": "Google"}
+test: satu.dns.id. hostmaster.dns.id. 2019102900 10800 3600 604800 38400
